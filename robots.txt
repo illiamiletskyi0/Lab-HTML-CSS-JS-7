@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/courtly/sitemap.xml
+Sitemap: https://illiamiletskyi0.github.io/Lab-HTML-CSS-JS-7/sitemap.xml
